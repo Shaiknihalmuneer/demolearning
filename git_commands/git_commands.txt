@@ -4,6 +4,8 @@ git status -->to see the current status
 git add filename/git add .-->to add the file(in stagning area)
 git commit -m "initial commit"-->commit the changes
 git push -->push into remote dir. 
+git checkout branchname-->to checkout the branch. 
+git checkout -b branchname -->to create the branch and checkout.
 
 
 -
